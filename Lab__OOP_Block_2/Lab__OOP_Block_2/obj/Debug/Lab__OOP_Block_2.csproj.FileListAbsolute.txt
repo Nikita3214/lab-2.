@@ -1,0 +1,6 @@
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\bin\Debug\Lab_3_OOP_Block_2.exe.config
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\obj\Debug\Lab_3_OOP_Block_2.csprojResolveAssemblyReference.cache
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\bin\Debug\Lab_3_OOP_Block_2.exe
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\bin\Debug\Lab_3_OOP_Block_2.pdb
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\obj\Debug\Lab_3_OOP_Block_2.exe
+D:\UNIVER\2 КУРС\Лабораторні роботи\ООП\ЛР №3\Lab_3_OOP_Block_2\Lab_3_OOP_Block_2\obj\Debug\Lab_3_OOP_Block_2.pdb
